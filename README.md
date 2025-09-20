@@ -3,6 +3,7 @@
 ---
 
 ## 💼 Professional Summary  
+<br>
 Final year B.Tech in Information Technology student with strong expertise in Data Analysis. A Data Analyst with a keen interest in building intelligent solutions. I have a strong interest in AI/ML, and Software Development.
 ---
 
@@ -53,6 +54,7 @@ Final year B.Tech in Information Technology student with strong expertise in Dat
 
 **🎓 PunchIn**  
 A face recognition–based attendance system designed for educational institutions, leveraging OpenCV, MTCNN, and Streamlit for real-time, contactless attendance tracking.
+<br>
 **🎓 Acting Clone** 
 A real-time motion mirroring application that creates a dynamic digital clone of user movements.
 
@@ -70,9 +72,7 @@ I believe in **high agency and extreme ownership** when building software. My fo
 
 ## 📊 GitHub Statistics  
 
-![Aishani's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishanirajpal&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aishanirajpal&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aishanirajpal&theme=radical)  
 
 ---
 ## 📫 Contact Information  
