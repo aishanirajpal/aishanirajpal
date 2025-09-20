@@ -1,12 +1,9 @@
-# 👋 Hi, I'm Aishani Rajpal 
-
----
+# Hi, I'm Aishani Rajpal 
 
 ## 💼 Professional Summary  
 <br>
 Final year B.Tech in Information Technology student with strong expertise in Data Analysis. A Data Analyst with a keen interest in building intelligent solutions. I have a strong interest in AI/ML, and Software Development.
 
----
 
 ## 💻 Technical Expertise  
 
@@ -25,7 +22,6 @@ Final year B.Tech in Information Technology student with strong expertise in Dat
 **Infrastructure & Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
 
----
 
 ## 🏆 Notable Projects  
 
@@ -33,6 +29,7 @@ Final year B.Tech in Information Technology student with strong expertise in Dat
 A face recognition–based attendance system designed for educational institutions, leveraging OpenCV, MTCNN, and Streamlit for real-time, contactless attendance tracking.
 <br>
 **🎓 Acting Clone** 
+
 A real-time motion mirroring application that creates a dynamic digital clone of user movements.
 
 **🌐 Production Deployments**  
@@ -40,24 +37,19 @@ A real-time motion mirroring application that creates a dynamic digital clone of
 - [MockInterviewer](https://ai-mock-interviewer-excel.streamlit.app/)  
 - [MpinAnalyser](https://mpin-security-analyser.streamlit.app/)  
 
----
-
 ## 🎯 Professional Philosophy  
 I believe in **high agency and extreme ownership** when building software. My focus is on developing solutions that are **scalable, maintainable, and impactful** for users.  
 
----
 
 ## 📊 GitHub Statistics  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aishanirajpal&layout=compact&theme=radical)  
 
----
 ## 📫 Contact Information  
 📧 Email: **aishanirajpal@gmail.com**  
 🔗 LinkedIn: [linkedin.com/in/aishanirajpal_](https://www.linkedin.com/in/aishanirajpal/)   
 🌐 Portfolio: [aishanirajpal.vercel.app](https://aishanirajpal.vercel.app/)  
 
----
 
 ✨ Open to internships, full-time opportunities, and freelance projects in data science and software engineering.  
 
