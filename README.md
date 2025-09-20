@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Aishani Rajpal 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tanaykmr.com-blue?style=for-the-badge&logo=google-chrome)](https://aishanirajpal.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tanaykmr-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aishanirajpal/)   
-[![Email](https://img.shields.io/badge/Email-hey@tanaykmr.com-red?style=for-the-badge&logo=gmail)](mailto:aishanirajpal@gmail.com)  
-
 ---
 
 ## 💼 Professional Summary  
@@ -74,15 +70,15 @@ I believe in **high agency and extreme ownership** when building software. My fo
 
 ## 📊 GitHub Statistics  
 
-![Aishani's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanaykmr&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanaykmr&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanaykmr&theme=radical)  
+![Aishani's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishanirajpal&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aishanirajpal&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aishanirajpal&theme=radical)  
 
 ---
 ## 📫 Contact Information  
 📧 Email: **aishanirajpal@gmail.com**  
-🔗 LinkedIn: [linkedin.com/in/tanaykmr](https://www.linkedin.com/in/aishanirajpal/)   
-🌐 Portfolio: [tanaykmr.com](https://tanaykmr.com)  
+🔗 LinkedIn: [linkedin.com/in/aishanirajpal_](https://www.linkedin.com/in/aishanirajpal/)   
+🌐 Portfolio: [aishanirajpal.vercel.app](https://aishanirajpal.vercel.app/)  
 
 ---
 
