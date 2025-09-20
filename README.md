@@ -28,8 +28,7 @@ Final year B.Tech in Information Technology student with strong expertise in Dat
 **🎓 PunchIn**  
 A face recognition–based attendance system designed for educational institutions, leveraging OpenCV, MTCNN, and Streamlit for real-time, contactless attendance tracking.
 <br>
-**🎓 Acting Clone** 
-
+**🎓 Acting Clone**   
 A real-time motion mirroring application that creates a dynamic digital clone of user movements.
 
 **🌐 Production Deployments**  
@@ -38,8 +37,7 @@ A real-time motion mirroring application that creates a dynamic digital clone of
 - [MpinAnalyser](https://mpin-security-analyser.streamlit.app/)  
 
 ## 🎯 Professional Philosophy  
-I believe in **high agency and extreme ownership** when building software. My focus is on developing solutions that are **scalable, maintainable, and impactful** for users.  
-
+I prioritise **full accountability** and **proactive initiative** in data projects, aiming to build robust, efficient, and meaningful solutions that transform data into valuable insights for informed decision making.
 
 ## 📊 GitHub Statistics  
 
