@@ -1,12 +1,10 @@
 # Hi, I'm Aishani Rajpal 
 
 ## 💼 Professional Summary  
-<br>
-Final year B.Tech in Information Technology student with strong expertise in Data Analysis. A Data Analyst with a keen interest in building intelligent solutions. I have a strong interest in AI/ML, and Software Development.
+Final year B.Tech IT student with strong expertise in Data Analysis. A Data Analyst with a keen interest in building intelligent solutions. I have a strong interest in AI/ML, and Software Development.
 
 
 ## 💻 Technical Expertise  
-
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 
@@ -24,7 +22,6 @@ Final year B.Tech in Information Technology student with strong expertise in Dat
 
 
 ## 🏆 Notable Projects  
-
 **🎓 PunchIn**  
 A face recognition–based attendance system designed for educational institutions, leveraging OpenCV, MTCNN, and Streamlit for real-time, contactless attendance tracking.
 <br>
@@ -40,7 +37,6 @@ A real-time motion mirroring application that creates a dynamic digital clone of
 I prioritise **full accountability** and **proactive initiative** in data projects, aiming to build robust, efficient, and meaningful solutions that transform data into valuable insights for informed decision making.
 
 ## 📊 GitHub Statistics  
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aishanirajpal&layout=compact&theme=radical)  
 
 ## 📫 Contact Information  
