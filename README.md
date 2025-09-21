@@ -1,7 +1,7 @@
 # Hi, I'm Aishani Rajpal 
 
 ## 💼 Professional Summary  
-Final year B.Tech IT student with strong expertise in Data Analysis. A Data Analyst with a keen interest in building intelligent solutions. I have a strong interest in AI/ML, and Software Development.
+Final year B.Tech IT student with strong expertise in Data Science. A Data Scientist with a keen interest in building intelligent solutions. I have a strong interest in AI/ML, and Software Development.
 
 
 ## 💻 Technical Expertise  
