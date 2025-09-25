@@ -1,6 +1,6 @@
 # Hi, I'm Aishani Rajpal 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=black&center=true&vCenter=true&width=700&lines=SQL+%7C+Excel+%7C+Power+BI;Dashboards+%26+Visualisation;Business+Intelligence;Machine+Learning+%7C+Computer+Vision+%7C+NLP" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=0&center=true&vCenter=true&width=700&lines=SQL+%7C+Excel+%7C+Power+BI;Dashboards+%26+Visualisation;Business+Intelligence;Machine+Learning+%7C+Computer+Vision+%7C+NLP" />
 </p>
 
 ## 💼 Professional Summary  
