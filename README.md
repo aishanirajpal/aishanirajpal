@@ -41,7 +41,6 @@ I prioritise **full accountability** and **proactive initiative** in data projec
 
 ## 📊 GitHub Statistics  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aishanirajpal&layout=compact&theme=radical)  
-### 🔥 GitHub Contributions & Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=aishanirajpal&theme=radical&hide_border=true)
 ![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=aishanirajpal)
 
