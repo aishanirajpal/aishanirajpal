@@ -1,4 +1,12 @@
 # Hi, I'm Aishani Rajpal 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=a31221&center=true&vCenter=true&width=700&lines=SQL+%7C+Excel+%7C+Power+BI;Dashboarding+%26+Visualization;Business+Intelligence;Machine+Learning+%7C+Computer+Vision+%7C+NLP" />
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/aishanirajpal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin"/>
+  </a>
+</p>
 
 ## 💼 Professional Summary  
 Final year B.Tech IT student with strong expertise in Data Science. A Data Scientist with a keen interest in building intelligent solutions. I have a strong interest in AI/ML, and Software Development.
@@ -38,6 +46,9 @@ I prioritise **full accountability** and **proactive initiative** in data projec
 
 ## 📊 GitHub Statistics  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aishanirajpal&layout=compact&theme=radical)  
+### 🔥 GitHub Contributions & Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=aishanirajpal&theme=radical&hide_border=true)
+![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=aishanirajpal)
 
 ## 📫 Contact Information  
 📧 Email: **aishanirajpal@gmail.com**  
