@@ -40,9 +40,15 @@ A real-time motion mirroring application that creates a dynamic digital clone of
 I prioritise **full accountability** and **proactive initiative** in data projects, aiming to build robust, efficient, and meaningful solutions that transform data into valuable insights for informed decision making.
 
 ## 📊 GitHub Statistics  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aishanirajpal&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=aishanirajpal&theme=radical&hide_border=true)
-![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=aishanirajpal)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aishanirajpal&show_icons=true&theme=blueberry&hide_border=true&bg_color=0D1117" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=aishanirajpal&theme=blueberry&hide_border=true&background=0D1117" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishanirajpal&theme=blueberry&hide_border=true&layout=compact&bg_color=0D1117"/>
+</div>
+
 
 ## 📫 Contact Information  
 <p align="center">
