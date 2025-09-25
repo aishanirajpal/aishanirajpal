@@ -1,11 +1,6 @@
 # Hi, I'm Aishani Rajpal 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=a31221&center=true&vCenter=true&width=700&lines=SQL+%7C+Excel+%7C+Power+BI;Dashboarding+%26+Visualization;Business+Intelligence;Machine+Learning+%7C+Computer+Vision+%7C+NLP" />
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/aishanirajpal">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=black&center=true&vCenter=true&width=700&lines=SQL+%7C+Excel+%7C+Power+BI;Dashboards+%26+Visualisation;Business+Intelligence;Machine+Learning+%7C+Computer+Vision+%7C+NLP" />
 </p>
 
 ## 💼 Professional Summary  
@@ -51,9 +46,20 @@ I prioritise **full accountability** and **proactive initiative** in data projec
 ![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=aishanirajpal)
 
 ## 📫 Contact Information  
-📧 Email: **aishanirajpal@gmail.com**  
-🔗 LinkedIn: [linkedin.com/in/aishanirajpal_](https://www.linkedin.com/in/aishanirajpal/)   
-🌐 Portfolio: [aishanirajpal.vercel.app](https://aishanirajpal.vercel.app/)  
+<p align="center">
+  <a href="https://linkedin.com/in/aishanirajpal">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aishanirajpal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/aishanirajpal">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://aishanirajpal.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 
 ✨ Open to internships, full-time opportunities, and freelance projects in data science and software engineering.  
